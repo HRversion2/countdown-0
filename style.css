@@ -1,0 +1,11 @@
+.explosion {
+    background-image: url(https://www.ready.gov/sites/default/files/2019-09/hero_nuclear_blast.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    display: none
+}
+
+.show {
+    display: block
+}
